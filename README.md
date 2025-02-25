@@ -69,8 +69,4 @@ I thrive on transforming theoretical knowledge into practical solutions. Whether
 
 ## Contact
 
-I'm always excited to connect with fellow tech enthusiasts or potential collaborators. Reach out to me at [Othmane.Azoubi@um6p.ma](mailto:Othmane.Azoubi@um6p.ma) or check out my work on [GitHub](https://github.com/elEsquina).
-
----
-
-*Feel free to adjust and expand this profile as you grow your projects and skills!*
+I'm always excited to connect with fellow tech enthusiasts or potential collaborators. Reach out to me at [Othmane.Azoubi@um6p.ma](mailto:Othmane.Azoubi@um6p.ma) or check out my work on [GitHub](https://github.com/elEsquina), or contact me over [LinkedIn](https://www.linkedin.com/in/othmane-azoubi-593814257/)
