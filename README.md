@@ -11,9 +11,6 @@ I'm Othmane—a passionate third-year Computer Science student at UM6P, College 
 <!-- GitHub Readme Stats Card -->
 ![Othmane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elEsquina&show_icons=true&count_private=true&theme=dark)
 
-<!-- Top Languages Card -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elEsquina&layout=compact&theme=dark)
-
 ---
 
 ## About Me
@@ -111,4 +108,4 @@ I thrive on transforming theoretical knowledge into practical solutions. Whether
 
 ## Contact
 
-Feel free to reach out at [Othmane.Azoubi@um6p.ma](mailto:Othmane.Azoubi@um6p.ma) or connect with me on [GitHub](https://github.com/elEsquina).
+Feel free to reach out at [Othmane.Azoubi@um6p.ma](mailto:Othmane.Azoubi@um6p.ma) or connect with me on [LinkedIn](https://www.linkedin.com/in/othmane-azoubi-593814257/)
