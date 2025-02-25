@@ -1,8 +1,7 @@
 # Othmane AZOUBI (elEsquina)
 
 I'm Othmane—a passionate third-year Computer Science student at UM6P, College of Computing in Benguerir, Morocco. I merge my interests in cybersecurity, IoT, AI, and embedded systems into projects that push technical boundaries.  
-
-[![GitHub followers](https://img.shields.io/github/followers/elEsquina?style=social)](https://github.com/elEsquina) • [Website](https://elesquina.github.io/)
+[My website](https://elesquina.github.io/)
 
 ---
 
