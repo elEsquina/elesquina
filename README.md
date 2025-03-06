@@ -3,13 +3,13 @@
 I'm Othmane—a passionate third-year Computer Science student at UM6P, College of Computing in Benguerir, Morocco. I merge my interests in cybersecurity, IoT, AI, and embedded systems into projects that push technical boundaries.
 
 [![GitHub followers](https://img.shields.io/github/followers/elEsquina?style=social)](https://github.com/elEsquina) • [Website](https://elesquina.github.io/)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elEsquina&layout=compact&theme=dark)
 ---
 
 ## GitHub Stats
 
 <!-- GitHub Readme Stats Card -->
 ![Othmane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elEsquina&show_icons=true&count_private=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elEsquina&layout=compact&theme=dark)
 
 ---
 
