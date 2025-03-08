@@ -1,6 +1,4 @@
-# Othmane AZOUBI (elEsquina)
-
-I'm Othmane—a passionate third-year Computer Science student at UM6P, College of Computing in Benguerir, Morocco. I merge my interests in cybersecurity, IoT, AI, and embedded systems into projects that push technical boundaries.
+I merge my interests in cybersecurity, IoT, AI, and embedded systems into projects that push technical boundaries.
 
 [![GitHub followers](https://img.shields.io/github/followers/elEsquina?style=social)](https://github.com/elEsquina) • [Website](https://elesquina.github.io/)
 ---
@@ -10,12 +8,6 @@ I'm Othmane—a passionate third-year Computer Science student at UM6P, College 
 <!-- GitHub Readme Stats Card -->
 ![Othmane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elEsquina&show_icons=true&count_private=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elEsquina&layout=compact&theme=dark)
-
----
-
-## About Me
-
-I thrive on transforming theoretical knowledge into practical solutions. Whether designing robust cybersecurity systems or developing IoT applications, I enjoy solving complex problems with creative, data-driven approaches. I also lead tech communities as Vice-President of the ACM UM6P Chapter and President of the forgebots UM6P AI & IoT club.
 
 ---
 
@@ -79,33 +71,6 @@ I thrive on transforming theoretical knowledge into practical solutions. Whether
 
 ---
 
-## Projects & Contributions
-
-- **Agent AI:**  
-  Developed a voice-enabled chatbot on WhatsApp using NLP and large language models. Built data pipelines with Python and deployed real-time solutions using HPC resources.
-
-- **Traffic Simulator:**  
-  Created a simulation model in Unity Engine to optimize urban traffic flows, showcasing algorithmic and system design skills.
-
-- **Embedded & Control Systems:**  
-  Explored error-correcting codes (e.g., Hamming Code) and symbolic control methods, reinforcing my passion for foundational and applied computing challenges.
-
-- **PixelLMS & More:**  
-  Check out my GitHub for a variety of projects—from learning management systems to innovative control systems.  
-  [View More on GitHub](https://github.com/elEsquina)
-
----
-
-## Certifications & Leadership
-
-- **Certifications:**  
-  IBM SkillsBuild Cybersecurity Fundamentals, Introduction to Cyber Attacks, Real-Time Cyber Threat Detection and Mitigation, Cyber Attack Countermeasures, Enterprise Infrastructure Security
-
-- **Leadership:**  
-  Vice-President of the ACM UM6P Chapter and President of the forgebots UM6P AI & IoT club
-
----
-
 ## Contact
 
-Feel free to reach out at [Othmane.Azoubi@um6p.ma](mailto:Othmane.Azoubi@um6p.ma) or connect with me on [LinkedIn](https://www.linkedin.com/in/othmane-azoubi-593814257/)
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/othmane-azoubi-593814257/)
